@@ -1,0 +1,25 @@
+{
+  "name": "thinkup-variable",
+  "version": "1.0.0",
+  "description": "No description.",
+  "scripts": {},
+  "author": "S",
+  "license": "Beerware",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unlight/thinkup-variable.git"
+  },
+  "keywords": [
+    "variable",
+    "name",
+    "variable",
+    "name"
+  ],
+  "bugs": {
+    "url": "https://github.com/unlight/thinkup-variable/issues"
+  },
+  "homepage": "https://github.com/unlight/thinkup-variable#readme"
+}
