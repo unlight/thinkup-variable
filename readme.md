@@ -1,6 +1,8 @@
 
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/thinkup-variable.svg)](https://greenkeeper.io/)
+
 
 USAGE
 -----
